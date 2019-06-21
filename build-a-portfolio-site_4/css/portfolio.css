@@ -1,0 +1,27 @@
+
+body{
+	font-family: verdana, sans-serif;
+	color:#0b99bc;
+	font-weight:100;
+	background-color:transparent;
+}
+	
+.text-thin{
+	font-weight:100;
+	
+}
+.text-muted{
+	color:#0b99bc;
+}
+
+.top-gap{
+	margin-top:30px;
+	margin-bottom:45px;
+}
+a{
+	color:#004687;
+}
+
+.jumbotron{
+margin-top:60px;
+}
